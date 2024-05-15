@@ -1,6 +1,6 @@
 # Personal portfolio
 
-Check out : nikitakanodia.github.io
+Check out : [My Portfolio](nikitakanodia.github.io)
 This is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Prerequisites
