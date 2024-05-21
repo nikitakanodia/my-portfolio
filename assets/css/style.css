@@ -834,6 +834,8 @@ main {
  * skills 
  */
 
+.skill { margin-bottom: 30px; }
+
 .skills-title { margin-bottom: 20px; }
 
 .skills-list { padding: 20px; }
@@ -1129,7 +1131,7 @@ main {
   border-radius: 16px;
   margin-bottom: 30px;
   border: 1px solid var(--jet);
-  overflow: hidden;
+  overflow:hidden;
 }
 
 .mapbox figure { height: 100%; }

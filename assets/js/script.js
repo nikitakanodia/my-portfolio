@@ -129,7 +129,7 @@ for (let i = 0; i < formInputs.length; i++) {
       formBtn.removeAttribute("disabled");
     } else {
       formBtn.setAttribute("disabled", "");
-    }
+    } 
 
   });
 }
